@@ -1,0 +1,57 @@
+.nav {
+  height: 100%;
+  align-items: center;
+  display: flex;
+  background-color: rgb(24, 4, 43);
+  border-radius: 20px;
+  margin: 10px;
+  align-content: center;
+  position: relative;
+  font-size: 1.5rem;
+}
+
+.header {
+  height: 100px;
+  width: 100%;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+}
+
+.menu {
+  color: white;
+}
+
+.name {
+  text-decoration: none;
+  color: white;
+}
+
+.logo {
+  text-decoration: none;
+  color: white;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.col {
+  display: flex;
+  justify-content: center;
+}
+
+.menu-icon {
+  width: 20px;
+  height: 2px;
+  background-color: white;
+  margin: -4px -2px;
+}
+
+.bd {
+  display: grid;
+  align-items: center;
+}
+
+.menu-text {
+  text-decoration: none;
+  color: white;
+}
